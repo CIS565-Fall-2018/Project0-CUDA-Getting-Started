@@ -20,7 +20,7 @@ Project 0 CUDA Getting Started
 
 ![](https://github.com/LanLou123/Project0-CUDA-Getting-Started/raw/master/images/4.JPG)
 
-* part6 Nsight dubugging : warp int CUDA info
+* part6 Nsight dubugging : warp in CUDA info
 
 ![](https://github.com/LanLou123/Project0-CUDA-Getting-Started/raw/master/images/3.JPG) 
 
