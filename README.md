@@ -3,12 +3,26 @@ Project 0 CUDA Getting Started
 
 **University of Pennsylvania, CIS 565: GPU Programming and Architecture, Project 0**
 
-* (TODO) YOUR NAME HERE
-  * (TODO) [LinkedIn](), [personal website](), [twitter](), etc.
-* Tested on: (TODO) Windows 22, i7-2222 @ 2.22GHz 22GB, GTX 222 222MB (Moore 2222 Lab)
+* Henry Zhu
+  * (TODO) [LinkedIn](https://www.linkedin.com/in/henry-zhu-347233121/), [personal website](https://maknee.github.io/), [twitter](https://twitter.com/maknees1), etc.
+* Tested on: (TODO) Windows 10 Home, Intel i7-4710HQ @ 2.50GHz 22GB, GTX 870M (Own computer)
 
-### (TODO: Your README)
+## Screenshots
 
-Include screenshots, analysis, etc. (Remember, this is public, so don't put
-anything here that you don't want to share with the world.)
+### Title
+
+![Title](images/title.png)
+
+### Timeline
+
+![Timeline](images/timeline.png)
+
+### Breakpoint
+
+![Breakpoint](images/breakpoint.png)
+
+## Feedback
+
+Cool stuff
+
 
