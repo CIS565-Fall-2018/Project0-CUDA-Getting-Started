@@ -5,7 +5,7 @@ Project 0 CUDA Getting Started
 
 * Ziad Ben Hadj-Alouane
   * [LinkedIn](https://www.linkedin.com/in/ziadbha/), [personal website](https://www.seas.upenn.edu/~ziadb/)
-* Tested on: (TODO) Windows 10, i7-8750H @ 2.20GHz, 16GB, GTX 1060
+* Tested on: Windows 10, i7-8750H @ 2.20GHz, 16GB, GTX 1060
 
 ### (TODO: Your README)
 
