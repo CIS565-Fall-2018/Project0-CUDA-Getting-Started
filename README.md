@@ -3,9 +3,9 @@ Project 0 CUDA Getting Started
 
 **University of Pennsylvania, CIS 565: GPU Programming and Architecture, Project 0**
 
-* (TODO) YOUR NAME HERE
-  * (TODO) [LinkedIn](), [personal website](), [twitter](), etc.
-* Tested on: (TODO) Windows 22, i7-2222 @ 2.22GHz 22GB, GTX 222 222MB (Moore 2222 Lab)
+* Liam Dugan
+  * [LinkedIn](https://www.linkedin.com/in/liam-dugan-95a961135/), [personal website](http://liamdugan.com/)
+* Tested on: Windows 10, Ryzen 5 1600 @ 3.20GHz 16GB, GTX 1070 8088MB VRAM / 8168MB Shared memory
 
 ### (TODO: Your README)
 
