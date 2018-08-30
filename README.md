@@ -3,12 +3,24 @@ Project 0 CUDA Getting Started
 
 **University of Pennsylvania, CIS 565: GPU Programming and Architecture, Project 0**
 
-* (TODO) YOUR NAME HERE
-  * (TODO) [LinkedIn](), [personal website](), [twitter](), etc.
-* Tested on: (TODO) Windows 22, i7-2222 @ 2.22GHz 22GB, GTX 222 222MB (Moore 2222 Lab)
+* Lan Lou
+* Tested on: Windows 10, i7-6700HQ @ 2.60GHz 16GB, GTX 1070 8GB (personal laptop)
 
-### (TODO: Your README)
+**results:**
 
-Include screenshots, analysis, etc. (Remember, this is public, so don't put
-anything here that you don't want to share with the world.)
+* part4 modify : the title of the window has been changed into my name.
+
+![](https://github.com/LanLou123/Project0-CUDA-Getting-Started/raw/master/images/1.JPG) 
+
+* partr5 analyze : the timeline info displayed in performence analysis window.
+
+![](https://github.com/LanLou123/Project0-CUDA-Getting-Started/raw/master/images/2.JPG) 
+
+* part6 Nsight debugging : beakpoint condition has been set to (index == 1111)
+
+![](https://github.com/LanLou123/Project0-CUDA-Getting-Started/raw/master/images/4.JPG)
+
+* part6 Nsight dubugging : warp in CUDA info
+
+![](https://github.com/LanLou123/Project0-CUDA-Getting-Started/raw/master/images/3.JPG) 
 
