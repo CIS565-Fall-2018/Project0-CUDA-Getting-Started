@@ -20,8 +20,8 @@ Project 0 CUDA Getting Started
 * Nsight Debugging
   * Autos
   
-![](images/debug_Autos.PNG)
+  ![](images/debug_Autos.PNG)
   
   * CUDA info Warp
   
-![](images/debug_CUDAinfo1.PNG)
+  ![](images/debug_CUDAinfo1.PNG)
