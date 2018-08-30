@@ -21,14 +21,21 @@ Build Command: `cmake -G "Visual Studio 15 2017 Win64" -DCUDA_TOOLKIT_ROOT_DIR="
 ### Screenshots
 
 Application:
-![](images/img_name.png)
+
+![](images/img_name.PNG)
+
 
 CUDA Timeline:
-![](images/img_timeline.png)
+
+![](images/img_timeline.PNG)
+
 
 Local Variable w/ conditional breakpoint:
-![](images/img_index.png)
+
+![](images/img_index.PNG)
+
 
 With Warp Window:
-![](images/img_warp.png)
+
+![](images/img_warp.PNG)
 
