@@ -10,8 +10,6 @@ Project 0 CUDA Getting Started
   * [Steam](https://steamcommunity.com/id/grillnov)
 * Tested on: Windows 10 x64, i7-7700HQ @ 2.80GHz 16GB, GTX 1060 6GB (Personal computer)
 
-### (TODO: Your README)
-
 * Additional modification made to the repo
   Since I'm running CUDA 9.2 on a Pascal card and my nvcc is way too new to recognize "sm_20" as an architecture option, I had to modify the option in ./src/CMakeLists.txt and make it "sm_60" instead.
 
@@ -30,3 +28,6 @@ Picked index == 1043 for the breakpoint condition.
 * **Debug windows: system info**
 The information of the warps.
   ![](images/info.png)
+
+* Feedback
+Pascal and even newer architectures are out there so we might want to upgrade our base code accordingly?
