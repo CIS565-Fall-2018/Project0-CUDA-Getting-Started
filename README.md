@@ -8,4 +8,11 @@ Project 0 CUDA Getting Started
 
 **results:**
 
+![](https://github.com/LanLou123/Project0-CUDA-Getting-Started/raw/master/images/1.JPG) 
+
+![](https://github.com/LanLou123/Project0-CUDA-Getting-Started/raw/master/images/2.JPG) 
+
+![](https://github.com/LanLou123/Project0-CUDA-Getting-Started/raw/master/images/4.JPG)
+
+![](https://github.com/LanLou123/Project0-CUDA-Getting-Started/raw/master/images/3.JPG) 
 
