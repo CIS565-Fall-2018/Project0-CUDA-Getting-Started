@@ -15,7 +15,7 @@ This is a simple assignment to demonstrate that CUDA is up and running on my per
 
 Running CUDA v. 9.2 in Visual Studio 15 Community.
 
-![bluered](/images/CAPTURE.png)
+![bluered](images/CAPTURE.png)
 
-![nsightData](/images/nsight.png)
+![nsightData](images/nsight.png)
 
