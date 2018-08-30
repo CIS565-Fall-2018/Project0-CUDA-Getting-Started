@@ -7,5 +7,5 @@ set(SOURCE_FILES
 
 cuda_add_library(src
     ${SOURCE_FILES}
-    OPTIONS -arch=sm_60
+    OPTIONS -arch=sm_50
     )
