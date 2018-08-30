@@ -16,12 +16,16 @@ Project 0 CUDA Getting Started
   Since I'm running CUDA 9.2 on a Pascal card and my nvcc is way too new to recognize "sm_20" as an architecture option, I had to modify the option in ./src/CMakeLists.txt and make it "sm_60" instead.
 
 * Title bar
-  ![Nice and neat in black & green, with my name on it.](images/Titlebar.png)
+  ![](images/Titlebar.png)
+  Nice and neat in black & green, with my name on it.
 
 * Analysis
-  ![Timeline breakdown.](images/Timeline.png)
+  ![](images/Timeline.png)
+  Timeline breakdown.
 
 * Debug windows
-  ![Picked index == 1043 for the breakpoint condition.](images/auto.png)
+  ![](images/auto.png)
+  Picked index == 1043 for the breakpoint condition.
   
-  ![The information of the warps.](images/info.png)
+  ![](images/info.png)
+  The information of the warps.
