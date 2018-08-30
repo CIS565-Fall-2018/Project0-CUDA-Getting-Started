@@ -4,7 +4,7 @@ Project 0 CUDA Getting Started
 **University of Pennsylvania, CIS 565: GPU Programming and Architecture, Project 0**
 
 * Vasu Mahesh
-  * [LinkedIn](http://linkedin.com/in/vasumahesh), [Code Blog](www.codeplaysleep.com)
+  * [LinkedIn](http://linkedin.com/in/vasumahesh), [Code Blog](http://www.codeplaysleep.com)
 
 * Tested on a Laptop:
 	* Windows 10
