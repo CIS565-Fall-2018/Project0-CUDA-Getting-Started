@@ -4,6 +4,7 @@ Project 0 CUDA Getting Started
 **University of Pennsylvania, CIS 565: GPU Programming and Architecture, Project 0**
 
 * Xinyu Lin
+[Linkedin](https://www.linkedin.com/in/xinyu-lin-138352125/)
 * Tested on: Windows 10 Education, Intel(R) Xeon(R) CPU E5-1630 v4 @ 3.70GHz 32.0GB, GTX1070(SIG Lab)
 
 ### Xinyu Lin
