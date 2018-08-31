@@ -12,17 +12,13 @@ Project 0 CUDA Getting Started
 
 **NOTE: There is a difference in my output image and the expected one. It may be due to different SM Architecture.** 
 
-![](images/gl_window)
-_Output Window_
+![Output Window](images/gl_window.png)
 
-![](images/trace)
-_Performance Graph_
+![Performance Graph](images/trace.png)
 
-![](images/cuda_info)
-_CUDA Info_
+![CUDA Info](images/cuda_info.png)
 
-![](images/autos)
-_Autos_
+![Autos](images/autos.png)
 
 ---
 
