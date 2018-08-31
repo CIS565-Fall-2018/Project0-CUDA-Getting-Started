@@ -3,6 +3,8 @@ set(SOURCE_FILES
     "glslUtility.cpp"
     "kernel.h"
     "kernel.cu"
+    "main.hpp"
+    "main.cpp"
     )
 
 cuda_add_library(src
