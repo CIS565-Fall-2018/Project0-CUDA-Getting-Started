@@ -16,8 +16,10 @@ This is a simple assignment to demonstrate that CUDA is up and running on my per
 Running CUDA v. 9.2 in Visual Studio 15 Community.
 
 ![bluered](images/Capture.PNG)
+
 *code output*
 
 ![nsightData](images/nsight.PNG)
+
 *demonstrating NVIDIA nsight performance analysis*
 
