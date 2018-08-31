@@ -17,3 +17,6 @@ Project 0 CUDA Getting Started
 
 ### Debug Breakpoint Output:
 ![](images/AutosAndCUDAInfo.PNG)
+
+## Notes
+I did have to edit the CMakeLists.txt to include sm_60 instead of sm_20 since my GPU is Compute Capability 6.1
