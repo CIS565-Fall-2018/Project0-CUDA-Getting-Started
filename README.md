@@ -28,6 +28,6 @@ Project 0 CUDA Getting Started
 
 ![](images/2.png)
 ![](images/3.png)
-* Sceenshots on CUDA Debugging, the index is set to 2000
+* Sceenshot on CUDA Debugging, the index is set to 2000
 
 ![](images/4.png)
