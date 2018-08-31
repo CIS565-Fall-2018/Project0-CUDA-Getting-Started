@@ -12,7 +12,7 @@ Project 0 CUDA Getting Started
 Building & Running the app were done as per the instructions. I used Visual Studio 2015 to run build and ran both the Release and Debug versions. The output was the same in both cases as highlighted below.
 
 <p align="center">
-  <img src="https://github.com/ziedbha/Project0-CUDA-Getting-Started/edit/master/images/app.png?raw=true"/>
+  <img src="https://github.com/ziedbha/Project0-CUDA-Getting-Started/edit/master/images/app.png"/>
 </p>
 
 
