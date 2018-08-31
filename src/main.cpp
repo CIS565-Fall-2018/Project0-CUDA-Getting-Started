@@ -10,8 +10,8 @@
  * C main function.
  */
 int main(int argc, char* argv[]) {
-    // TODO: Change this line to use your name!
-    m_yourName = "TODO: YOUR NAME HERE";
+    
+	m_yourName = "Anantha Srinivas";
 
     if (init(argc, argv)) {
         mainLoop();
