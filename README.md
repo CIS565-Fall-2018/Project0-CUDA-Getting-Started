@@ -19,7 +19,7 @@ anything here that you don't want to share with the world.)
 
 1. Autos
 
-![](images/3.png)
+ ![](images/3.png)
 
 2. CUDA info warp
-![](images/4.png)
+ ![](images/4.png)
