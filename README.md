@@ -4,7 +4,7 @@ Project 0 CUDA Getting Started
 **University of Pennsylvania, CIS 565: GPU Programming and Architecture, Project 0**
 
 **Anantha Srinivas**
-[LinkedIn](https://www.linkedin.com/in/anantha-srinivas-00198958/), [twitter](https://twitter.com/an2tha)
+[LinkedIn](https://www.linkedin.com/in/anantha-srinivas-00198958/), [Twitter](https://twitter.com/an2tha)
 
 **Tested on:**
 * Windows 10, i7-8700 @ 3.20GHz 16GB, GTX 1080 8097MB (Personal)
@@ -12,16 +12,16 @@ Project 0 CUDA Getting Started
 
 **NOTE: There is a difference in my output image and the expected one. It may be due to different SM Architecture.** 
 
-![](images/gl_window.png)
+![](images/gl_window)
 _Output Window_
 
-![](images/trace.png)
+![](images/trace)
 _Performance Graph_
 
-![](images/cuda_info.png)
+![](images/cuda_info)
 _CUDA Info_
 
-![](images/autos.png)
+![](images/autos)
 _Autos_
 
 ---
