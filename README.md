@@ -7,7 +7,21 @@ Project 0 CUDA Getting Started
   * [LinkedIn](), [personal website](), [twitter](), etc.
 * Tested on: Windows 10.0.17134 Build 17134, i7-4710 @ 2.50GHz 16GB, GTX 980m 4096MB GDDR5
 
-### (TODO: Your README)
+### Analysis
+
+#### Build & Run
+
+![window image](images/change_name.PNG)
+
+#### Analyze
+
+![performance_analysis](images/performance_analysis.PNG)
+
+#### Debugging
+
+![debugging](images/wrap_info.PNG)
+
+
 
 Include screenshots, analysis, etc. (Remember, this is public, so don't put
 anything here that you don't want to share with the world.)
