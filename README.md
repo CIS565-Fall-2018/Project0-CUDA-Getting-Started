@@ -9,15 +9,19 @@ Project 0 CUDA Getting Started
 
 
 ## Screenshots
-![Initial Test](images/initial.png)
+### Initial ScreenShot
+![](images/initial.PNG)
 
-![NSight Timeline](images/NSightTimeline.png)
+### NSight Timeline
+![](images/NSightTimeline.PNG)
 
-![CUDA Debugger](images/autosAndWraps.png)
+### CUDA Debugger
+![](images/autosAndWraps.PNG)
 
 
 ## Comments
 
+* Compiled and Built using VS2015 and CUDA 8.0
 * Changed "src/CMAKELIST.txt" 
   * from "OPTIONS -arch=sm_20" to "OPTIONS -arch=sm_50"
   * "sm_50" corresponds to my GPU's 5.0 compute capability
