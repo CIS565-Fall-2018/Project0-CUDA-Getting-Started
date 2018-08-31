@@ -11,15 +11,15 @@ Project 0 CUDA Getting Started
 
 # Part 4
 
-![](./images/Capture1.jpg)
+![](./images/Capture1.JPG)
 
 # Part 5
 
-![](./images/Capture2.jpg)
+![](./images/Capture2.JPG)
 
 # Part 6
 
-![](./images/Capture3.jpg)
+![](./images/Capture3.JPG)
 
 Include screenshots, analysis, etc. (Remember, this is public, so don't put
 anything here that you don't want to share with the world.)
