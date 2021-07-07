@@ -3,12 +3,25 @@ Project 0 Getting Started
 
 **University of Pennsylvania, CIS 565: GPU Programming and Architecture, Project 0**
 
-* (TODO) YOUR NAME HERE
-  * (TODO) [LinkedIn](), [personal website](), [twitter](), etc.
-* Tested on: (TODO) Windows 22, i7-2222 @ 2.22GHz 22GB, GTX 222 222MB (Moore 2222 Lab)
+* Wanru Zhao
+  * [LinkedIn](www.linkedin.com/in/wanru-zhao).
+* Tested on: Windows 10 Education, Intel(R) Xeon(R) CPU E5-1630 v4 @ 3.70GHz 32.0 GB, GTX 1070(SIG Lab)
 
-### (TODO: Your README)
+### Screenshots
 
-Include screenshots, analysis, etc. (Remember, this is public, so don't put
-anything here that you don't want to share with the world.)
+* Window with changed string(to my name)
+![](images/run_result.PNG)
 
+
+* Performance analysis with tab Timeline
+![](images/pAnalysis_CUDA.PNG)
+![](images/pAnalysis_OpenGL.PNG)
+
+* Nsight Debugging
+  * Autos
+  
+  ![](images/debug_Autos.PNG)
+  
+  * CUDA info Warp
+  
+  ![](images/debug_CUDAinfo1.PNG)
