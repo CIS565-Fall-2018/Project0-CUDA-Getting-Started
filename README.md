@@ -3,12 +3,38 @@ Project 0 Getting Started
 
 **University of Pennsylvania, CIS 565: GPU Programming and Architecture, Project 0**
 
-* (TODO) YOUR NAME HERE
-  * (TODO) [LinkedIn](), [personal website](), [twitter](), etc.
-* Tested on: (TODO) Windows 22, i7-2222 @ 2.22GHz 22GB, GTX 222 222MB (Moore 2222 Lab)
+* Ziad Ben Hadj-Alouane
+  * [LinkedIn](https://www.linkedin.com/in/ziadbha/), [personal website](https://www.seas.upenn.edu/~ziadb/)
+* Tested on: Windows 10, i7-8750H @ 2.20GHz, 16GB, GTX 1060
 
-### (TODO: Your README)
+## Building & Running
 
-Include screenshots, analysis, etc. (Remember, this is public, so don't put
-anything here that you don't want to share with the world.)
+Building & Running the app were done as per the instructions. I used Visual Studio 2015 to run build and ran both the Release and Debug versions. The output was the same in both cases as highlighted below.
 
+### App Window
+<p align="center">
+  <img src="https://github.com/ziedbha/Project0-CUDA-Getting-Started/blob/master/images/app.png"/>
+</p>
+
+## Profiling
+
+Through NSight, I obtained the following timeline trace:
+
+### Timeline
+<p align="center">
+  <img src="https://github.com/ziedbha/Project0-CUDA-Getting-Started/blob/master/images/timeline1.png"/>
+</p>
+
+## CUDA Debugging
+
+I initially ran into a "grid launch failure" error when I tried to run the CUDA debugger. It turns out that my NSight version was too low. Updating it to 5.6 fixed the issue. I was able to place breakpoints, edit their hit conditions, and examine autos. I was also able to examine information about kernels, blocks, and warps through the CUDA Info NSight menu.
+
+### Autos
+<p align="center">
+  <img src="https://github.com/ziedbha/Project0-CUDA-Getting-Started/blob/master/images/autos.png"/>
+</p>
+
+### CUDA Info (Warps)
+<p align="center">
+  <img src="https://github.com/ziedbha/Project0-CUDA-Getting-Started/blob/master/images/warps.png"/>
+</p>
