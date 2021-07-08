@@ -9,5 +9,5 @@ set(SOURCE_FILES
 # e.g: compute compatibility 3.5 --> sm_35
 cuda_add_library(src
     ${SOURCE_FILES}
-    OPTIONS -arch=sm_20
+    OPTIONS -arch=sm_50
     )
